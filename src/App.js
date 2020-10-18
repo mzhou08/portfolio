@@ -7,7 +7,6 @@ import Timeline from './components/timeline'
 import Arts from './components/arts'
 import Music from './components/music'
 import Projects from './components/projects'
-import Blog from './components/blog'
 
 class App extends Component {
   render() {
