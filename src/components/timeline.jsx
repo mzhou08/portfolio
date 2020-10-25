@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a target="_blank" rel="noopener noreferrer" href="https://fisher.wharton.upenn.edu/management-technology-summer-institute/">UPenn Wharton M&TSI</a> <span>July 2020</span></h2>
-                        <p>I spend the month with the M&TSI summer camp.</p>
+                        <h2>UPenn Wharton M&TSI<span>July 2020</span></h2>
+                        <p>I spend the month with the <a target="_blank" rel="noopener noreferrer" href="https://fisher.wharton.upenn.edu/management-technology-summer-institute/">M&TSI summer</a> camp.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> <a target="_blank" rel="noopener noreferrer" href = "http://centerbeijing.yale.edu/event/2019/07/yygs-beijing-asia-21st-century#:~:text=The%20program%20will%20take%20place,YYGS%2DBeijing%20staff%20about%20the">Yale Young Global Scholar</a><span>July 28 - August 10, 2019</span></h2>
-                        <p>I attended YYGS-BEIJING: ASIA in the 21st Century</p>
+                        <h2> Yale Young Global Scholar<span>July 28 - August 10, 2019</span></h2>
+                        <p>I attended <a target="_blank" rel="noopener noreferrer" href = "http://centerbeijing.yale.edu/event/2019/07/yygs-beijing-asia-21st-century#:~:text=The%20program%20will%20take%20place,YYGS%2DBeijing%20staff%20about%20the">YYGS-BEIJING: ASIA in the 21st Century</a></p>
                       </div>
                     </div>
                   </article>
@@ -54,8 +54,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> <a target="_blank" rel="noopener noreferrer" href="https://www.fte.org/students/economics-for-leaders-program/"> Economics for Leaders, University of California, Berkeley </a><span>July 1- July 6 2019</span></h2>
-                        <p>I attended the Economics for Leaders at UCB. </p> 
+                        <h2> Economics for Leaders, University of California, Berkeley<span> July 1- July 6 2019</span></h2>
+                        <p>I attended the <a target="_blank" rel="noopener noreferrer" href="https://www.fte.org/students/economics-for-leaders-program/"> Economics for Leaders at UCB. </a></p> 
                       </div>
                     </div>
                   </article>
