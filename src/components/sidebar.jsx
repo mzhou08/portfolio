@@ -9,7 +9,7 @@ export default class Sidebar extends Component {
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Michael Hanyang Zhou</a></h1>
+              <h1 id="colorlib-logo"><a href="index.html">Michael Zhou</a></h1>
               <div><span className="email"><i className="icon-mail"></i> mzhou08@gmail.com</span></div>
             </div>
             <br/>
