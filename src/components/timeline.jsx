@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a target="_blank" href="https://fisher.wharton.upenn.edu/management-technology-summer-institute/">UPenn Wharton M&TSI</a> <span>July 2020</span></h2>
+                        <h2><a target="_blank" rel="noopener noreferrer" href="https://fisher.wharton.upenn.edu/management-technology-summer-institute/">UPenn Wharton M&TSI</a> <span>July 2020</span></h2>
                         <p>I spend the month with the M&TSI summer camp.</p>
                       </div>
                     </div>
@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a target="_blank" href="https://www.acs.org/content/acs/en/education/students/highschool/olympiad.html">US National Chemistry Olympiad</a><span>May 2020</span></h2>
-                        <p>I am in <a target="_blank" href="file:///Users/zqian/Downloads/2020_usnco_high_honors_and_honors_list%20(3).pdf">2020 USNCO Honors list. </a> </p>
+                        <h2><a target="_blank" rel="noopener noreferrer" href="https://www.acs.org/content/acs/en/education/students/highschool/olympiad.html">US National Chemistry Olympiad</a><span>May 2020</span></h2>
+                        <p>I am in <a target="_blank" rel="noopener noreferrer" href="file:///Users/zqian/Downloads/2020_usnco_high_honors_and_honors_list%20(3).pdf">2020 USNCO Honors list. </a> </p>
                       </div>
                     </div>
                   </article>
@@ -43,7 +43,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> <a target="_blank" href = "http://centerbeijing.yale.edu/event/2019/07/yygs-beijing-asia-21st-century#:~:text=The%20program%20will%20take%20place,YYGS%2DBeijing%20staff%20about%20the">Yale Young Global Scholar</a><span>July 28 - August 10, 2019</span></h2>
+                        <h2> <a target="_blank" rel="noopener noreferrer" href = "http://centerbeijing.yale.edu/event/2019/07/yygs-beijing-asia-21st-century#:~:text=The%20program%20will%20take%20place,YYGS%2DBeijing%20staff%20about%20the">Yale Young Global Scholar</a><span>July 28 - August 10, 2019</span></h2>
                         <p>I attended YYGS-BEIJING: ASIA in the 21st Century</p>
                       </div>
                     </div>
@@ -54,7 +54,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> <a target="_blank" href="https://www.fte.org/students/economics-for-leaders-program/"> Economics for Leaders, University of California, Berkeley </a><span>July 1- July 6 2019</span></h2>
+                        <h2> <a target="_blank" rel="noopener noreferrer" href="https://www.fte.org/students/economics-for-leaders-program/"> Economics for Leaders, University of California, Berkeley </a><span>July 1- July 6 2019</span></h2>
                         <p>I attended the Economics for Leaders at UCB. </p> 
                       </div>
                     </div>
@@ -65,7 +65,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a target="_blank" href="https://www.bsu.edu/calendar/events/academics/school-of-music/2019/06/24/mfa-summer-symposium">Music for All Summer Symposium</a> <span>June 25 - June 29 2019</span></h2>
+                        <h2><a target="_blank" rel="noopener noreferrer" href="https://www.bsu.edu/calendar/events/academics/school-of-music/2019/06/24/mfa-summer-symposium">Music for All Summer Symposium</a> <span>June 25 - June 29 2019</span></h2>
                         <p>A week-long music summer camp in Ball State University, IN. I am in the Marching Band and Drum Majors sessions.</p>
                       </div>
                     </div>
@@ -76,7 +76,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> <a target="_blank" href="https://oakland.edu/math/outreach/ousmi/"> Summer Mathematics Institute, Oakland University </a><span>July 2018</span></h2>
+                        <h2> <a target="_blank" rel="noopener noreferrer" href="https://oakland.edu/math/outreach/ousmi/"> Summer Mathematics Institute, Oakland University </a><span>July 2018</span></h2>
                         <p>I have completed two courses: linear algebra and  </p> 
                       </div>
                     </div>
