@@ -26,20 +26,20 @@ export default class Timeline extends Component {
                       </div>
                     </div>
                   </article>
-                  <article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-1">
+                      <div className="timeline-icon color-2">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2><a target="_blank" rel="noopener noreferrer" href="https://www.acs.org/content/acs/en/education/students/highschool/olympiad.html">US National Chemistry Olympiad</a><span>May 2020</span></h2>
-                        <p>I am in <a target="_blank" rel="noopener noreferrer" href="file:///Users/zqian/Downloads/2020_usnco_high_honors_and_honors_list%20(3).pdf">2020 USNCO Honors list. </a> </p>
+                        <p>I am in <a target="_blank" rel="noopener noreferrer" href="https://www.acs.org/content/dam/acsorg/education/students/highschool/olympiad/process/competitions/2020_usnco_high_honors_and_honors_list.pdf">2020 USNCO Honors list. </a> </p>
                       </div>
                     </div>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-2">
+                      <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
@@ -50,7 +50,7 @@ export default class Timeline extends Component {
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
@@ -61,7 +61,7 @@ export default class Timeline extends Component {
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-4">
+                      <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
@@ -72,7 +72,7 @@ export default class Timeline extends Component {
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      <div className="timeline-icon color-6">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
