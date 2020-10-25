@@ -42,17 +42,6 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Drawing</h3>
-                    <p>I love drawing</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
                     <i className="icon-data" />
