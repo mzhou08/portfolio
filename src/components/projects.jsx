@@ -28,7 +28,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">nquire.org</a></h3>
-											<span>nquire is a website for <a href="https://docs.google.com/presentation/d/11JF-Shrd-V7SOnprIIJcjHE7XnbATnwvll9Ztp2JLKg/edit" target="_blank"> Skyline Math Club activities</a> and Q/A site for students and volunteers to ask Math-relatetd uestions</span>
+											<span>nquire is a website for <a href="https://docs.google.com/presentation/d/11JF-Shrd-V7SOnprIIJcjHE7XnbATnwvll9Ztp2JLKg/edit" target="_blank" rel="noopener noreferrer"> Skyline Math Club activities</a> and Q/A site for students and volunteers to ask Math-relatetd uestions</span>
 										</div>
 									</div>
 								</div>
@@ -38,7 +38,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">My Portfolio web site</a></h3>
-											<span>This web site is built with <a href="https://nodejs.org/en/" target="_blank">Node.js</a> technology, automatically tested and deployed to Github pages with <a href="https://travis-ci.org/" href="_blank">Travis CI </a></span>
+											<span>This web site is built with <a href="https://nodejs.org/en/" target="_blank">Node.js</a> technology, automatically tested and deployed to Github pages with <a href="https://travis-ci.org/" href="_blank" rel="noopener noreferrer">Travis CI </a></span>
 										</div>
 									</div>
 								</div>
