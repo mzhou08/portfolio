@@ -38,7 +38,7 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">My Portfolio web site</a></h3>
-											<span>This web site is built with <a href="https://nodejs.org/en/" target="_blank">Node.js</a> technology, automatically tested and deployed to Github pages with <a href="https://travis-ci.org/" href="_blank" rel="noopener noreferrer">Travis CI </a></span>
+											<span>This web site is built with <a href="https://nodejs.org/en/" target="_blank">Node.js</a> technology, automatically tested and deployed to Github pages with <a href="https://travis-ci.org/" target="_blank" rel="noopener noreferrer">Travis CI </a></span>
 										</div>
 									</div>
 								</div>
