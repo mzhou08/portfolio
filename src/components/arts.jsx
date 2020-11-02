@@ -18,7 +18,9 @@ export default class Arts extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Hugs: Graphite</a></h3>
-											<span>Animation</span>
+											<span>This drawing illustrates friendship across ethnicities and cultures. I chose to draw in graphite to give a 
+											more dreamy and nostalgic feeling of a childhood best friend. The greyscale drawing emphasizes that we are not divided by color, 
+											but rather united and empowered by our different shades.</span>
 										</div>
 									</div>
 								</div>
@@ -27,7 +29,7 @@ export default class Arts extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/art_car.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3>Handicap-Friendly Cleaning Car: Watercolor</h3>
+											<h3>Handicap-Friendly Cleaning Car: Watercolor + Acrylic Paint</h3>
 											<span>Here is the <a target = "new"  href="https://tfsinthecommunity.com/michael-zhou/">press coverage link</a>. 
 											For the 9th Toyota Dream Car Art Contest 2015, more than 875,000 entries were submitted from over 81 countries around the world. 
 											From those submissions, the top 700-plus artworks were forwarded to Japan for the World Contest judging. 
