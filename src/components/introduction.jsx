@@ -15,7 +15,6 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi! <br />I'm Michael</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1pMD_3OUJTNnTmwYPVF73LIRoUnrmASGSo0X-nJM0FVs/edit#" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -36,7 +35,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/deca-state-champion-2020.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/deca-state-champion-2020.jpg)', backgroundSize:'80% auto'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
