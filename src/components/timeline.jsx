@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>UPenn Wharton M&amp;TSI<span>July 2020</span></h2>
-                        <p>I spend the month with the <a target="_blank" rel="noopener noreferrer" href="https://fisher.wharton.upenn.edu/management-technology-summer-institute/">M&amp;TSI summer</a> camp.</p>
+                        <h2>Management and Technology Summer Institute at the University of Pennsylvania<span>July 2020</span></h2>
+                        <p>Attended the  <a target="_blank" rel="noopener noreferrer" href="https://fisher.wharton.upenn.edu/management-technology-summer-institute/">M&amp;TSI</a> hosted by the Jerome Fisher Program in Management and Technology. I studied business and innovation through lectures as well as group projects. For our team final project, I proposed a gamified plant pot idea, and led our team in prototyping and presenting our plant product, named Endew.</p>
                       </div>
                     </div>
                   </article>
@@ -78,8 +78,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> <a target="_blank" rel="noopener noreferrer" href="https://oakland.edu/math/outreach/ousmi/"> Summer Mathematics Institute, Oakland University </a><span>July 2018</span></h2>
-                        <p>I have completed two courses: linear algebra and  </p> 
+                        <h2> Oakland University Summer Mathematics Institute <span>July 2018</span></h2>
+                        <p>I attended the tuition-free <a target="_blank" rel="noopener noreferrer" href="https://oakland.edu/math/outreach/ousmi/"> OUSMI</a> with 50 other top mathematics students in the state of Michigan. I earned A's in college-level courses on Number Theory &amp; Cryptography and Linear Algebra. </p> 
                       </div>
                     </div>
                   </article>
