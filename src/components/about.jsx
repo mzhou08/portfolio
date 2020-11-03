@@ -39,7 +39,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Math</h3>
-                    <p>I've spent many years in math, not only competing but also teaching and creating new learning opportunities.</p>
+                    <p>Math is one of my longtime interests. I have  not only competing but also teaching and creating new learning opportunities.</p>
                 </div>
                 </div>
             </div>
@@ -50,7 +50,8 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Programming</h3>
-                    <p>Here is my GitHub account:</p>
+                    <p>I taught myself Python, NodeJS, and Git. I have also created projects with Amazon Web Services. Here is my
+                        <a target = "new"  href="https://github.com/mzhou08">Github account:</a></p>
                 </div>
                 </div>
             </div>

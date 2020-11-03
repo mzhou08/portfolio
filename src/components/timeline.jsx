@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>UPenn Wharton M&TSI<span>July 2020</span></h2>
-                        <p>I spend the month with the <a target="_blank" rel="noopener noreferrer" href="https://fisher.wharton.upenn.edu/management-technology-summer-institute/">M&TSI summer</a> camp.</p>
+                        <h2>UPenn Wharton M&amp;TSI<span>July 2020</span></h2>
+                        <p>I spend the month with the <a target="_blank" rel="noopener noreferrer" href="https://fisher.wharton.upenn.edu/management-technology-summer-institute/">M&amp;TSI summer</a> camp.</p>
                       </div>
                     </div>
                   </article>
@@ -33,7 +33,8 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2><a target="_blank" rel="noopener noreferrer" href="https://www.acs.org/content/acs/en/education/students/highschool/olympiad.html">US National Chemistry Olympiad</a><span>May 2020</span></h2>
-                        <p>I am in <a target="_blank" rel="noopener noreferrer" href="https://www.acs.org/content/dam/acsorg/education/students/highschool/olympiad/process/competitions/2020_usnco_high_honors_and_honors_list.pdf">2020 USNCO Honors list. </a> </p>
+                        <p><a target="_blank" rel="noopener noreferrer" href="https://www.acs.org/content/dam/acsorg/education/students/highschool/olympiad/process/competitions/2020_usnco_high_honors_and_honors_list.pdf">2020 USNCO Honors list, 
+                        awarded to the top 150 participants in the 2020 National Chemistry Olympiad. </a> </p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +44,9 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> Yale Young Global Scholar<span>July 28 - August 10, 2019</span></h2>
-                        <p>I attended <a target="_blank" rel="noopener noreferrer" href = "http://centerbeijing.yale.edu/event/2019/07/yygs-beijing-asia-21st-century#:~:text=The%20program%20will%20take%20place,YYGS%2DBeijing%20staff%20about%20the">YYGS-BEIJING: ASIA in the 21st Century</a></p>
+                        <h2> Yale Young Global Scholars<span>July 28 - August 10, 2019</span></h2>
+                        <p>I attended <a target="_blank" rel="noopener noreferrer" href = "http://centerbeijing.yale.edu/event/2019/07/yygs-beijing-asia-21st-century#:~:text=The%20program%20will%20take%20place,YYGS%2DBeijing%20staff%20about%20the">YYGS-BEIJING: ASIA in the 21st Century</a>, 
+                        where I attended stimulating lectures and seminars. As a capstone project, my team conducted research on educational disparity in China and presented a project on the causes, current state, and solutions. </p>
                       </div>
                     </div>
                   </article>
@@ -55,7 +57,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2> Economics for Leaders, University of California, Berkeley<span> July 1- July 6 2019</span></h2>
-                        <p>I attended the <a target="_blank" rel="noopener noreferrer" href="https://www.fte.org/students/economics-for-leaders-program/"> Economics for Leaders at UCB. </a></p> 
+                        <p>I attended the <a target="_blank" rel="noopener noreferrer" href="https://www.fte.org/students/economics-for-leaders-program/"> Economics for Leaders Summer Program at UCB. </a></p> 
                       </div>
                     </div>
                   </article>
@@ -65,8 +67,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a target="_blank" rel="noopener noreferrer" href="https://www.bsu.edu/calendar/events/academics/school-of-music/2019/06/24/mfa-summer-symposium">Music for All Summer Symposium</a> <span>June 25 - June 29 2019</span></h2>
-                        <p>A week-long music summer camp in Ball State University, IN. I am in the Marching Band and Drum Majors sessions.</p>
+                        <h2> Music for All Summer Symposium <span>June 25 - June 29 2019</span></h2>
+                        <p>For the past two years, I attended the <a target="_blank" rel="noopener noreferrer" href="https://www.bsu.edu/calendar/events/academics/school-of-music/2019/06/24/mfa-summer-symposium">Music for All Summer Symposium</a>, a week-long music summer camp hosted by Ball State University in Illinois. I participated in the Drum Major Institute track.</p>
                       </div>
                     </div>
                   </article>
