@@ -18,23 +18,30 @@ export default class Projects extends Component {
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Bioinf-PHP: Bioinformatics Pipeline for Protein Homology and Phylogeny</a></h3>
-											<span>Website</span>
+											<span>I created a bioinformatics pipeline, BioInf-PHP, to 
+												automate the gene/protein/DNA sequence analysis process. My first-author paper was published by the <a href="http://www.thecloudcomputing.org/2020/" target="_blank" rel="noopener noreferrer">
+													CLOUD 2020 International Conference on Cloud Computing</a>, where I also presented my research.
+											</span>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/nquire.jpeg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/nquire.jpg)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">nquire.org</a></h3>
-											<span>nquire is a website for <a href="https://docs.google.com/presentation/d/11JF-Shrd-V7SOnprIIJcjHE7XnbATnwvll9Ztp2JLKg/edit" target="_blank" rel="noopener noreferrer"> Skyline Math Club activities</a> and Q/A site for students and volunteers to ask Math-relatetd uestions</span>
+											<span>See how many students were falling behind in math because they weren't asking questions,
+												I created nquire. 
+												<a href="https://docs.google.com/presentation/d/11JF-Shrd-V7SOnprIIJcjHE7XnbATnwvll9Ztp2JLKg/edit" target="_blank" rel="noopener noreferrer"> nquire</a> is a website for
+												students to ask all the math questions that they were too nervous to ask in class. I've also organized 20+ 
+												colunteer tutors to help answer these questions.</span>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/portfolio.jpeg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/travis-ci.png)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">My Portfolio web site</a></h3>

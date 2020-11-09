@@ -50,8 +50,8 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Programming</h3>
-                    <p>I taught myself Python, NodeJS, and Git. I have also created projects with Amazon Web Services. Here is my
-                        <a target = "new"  href="https://github.com/mzhou08">Github account:</a></p>
+                    <p>I taught myself Python, NodeJS, and Git. I have also created projects with Amazon Web Services. Here is my 
+                        <a target = "new"  href="https://github.com/mzhou08"> Github account:</a></p>
                 </div>
                 </div>
             </div>
