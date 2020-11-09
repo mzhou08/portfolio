@@ -14,7 +14,7 @@ export default class Arts extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/hug.jpeg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/hugs.jpeg)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3><a href="work.html">Hugs: Graphite</a></h3>
@@ -26,7 +26,7 @@ export default class Arts extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/art_car.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/Michael-Zhou_International_Award.jpg)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3>Handicap-Friendly Cleaning Car: Watercolor + Acrylic Paint</h3>
@@ -40,7 +40,7 @@ export default class Arts extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/lion.jpeg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/lion.jpg)'}}>
 									<div className="desc">
 										<div className="con">
 											<h3>Lion: Oil Pastel</h3>
@@ -52,12 +52,22 @@ export default class Arts extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
-								<div className="project" style={{backgroundImage: 'url(images/bird_drawing.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/flight.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3>Hyacinth Macaw: Color Pencil and Graphite</h3>
+											<h3>Flight: Color Pencil and Graphite</h3>
 											<span>This drawing of a hyacinth macaw was done with colored pencil and graphite. 
 											Colored pencil was used for the body, while the wings were drawn and detailed with graphite pencil.</span>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
+								<div className="project" style={{backgroundImage: 'url(images/cupid.jpg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3>Lost in Thought: Graphite</h3>
+											<span>Done as a graphite study, the portrait is of a small statue where anangelic boy sits atop a seashell.</span>
 										</div>
 									</div>
 								</div>

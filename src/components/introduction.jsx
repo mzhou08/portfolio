@@ -14,27 +14,14 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1>Hi! <br />I'm Michael</h1>
+                          <h1 style={{color:`white`}}> Hi! <br />I'm Michael Zhou.</h1>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/marching_band.jpeg)'}}>
-                <div className="overlay" />
-                <div className="container-fluid">
-                  <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
-                      <div className="slider-text-inner">
-                        <div className="desc">
-                          <h1>I love music </h1>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </li>
+
               <li style={{backgroundImage: 'url(images/deca-state-champion-2020.jpg)', backgroundSize:'80% auto'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
@@ -42,13 +29,29 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>I love DECA </h1>
+                          <h1 style={{color:`grey`}}>Business/DECA </h1>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
+              
+              <li style={{backgroundImage: 'url(images/marching_band_flipped.jpeg)'}}>
+                <div className="overlay" />
+                <div className="container-fluid">
+                  <div className="row">
+                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                      <div className="slider-text-inner">
+                        <div className="desc">
+                          <h1 style={{color:`black`}}>Music</h1>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              
               <li style={{backgroundImage: 'url(images/Michael-Zhou-Accepting-Japan-Award.png)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
@@ -56,7 +59,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>I love arts</h1>
+                          <h1 style={{color:`black`}}>Art</h1>
                         </div>
                       </div>
                     </div>
