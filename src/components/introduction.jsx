@@ -7,14 +7,15 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
+
+              <li style={{backgroundImage: 'url(images/img_nw.jpg)', backgroundSize:'fit'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
-                  <div className="row">
+                  <div className="row" >
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
-                      <div className="slider-text-inner js-fullheight">
+                      <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{color:`white`}}> Hi! <br />I'm Michael Zhou.</h1>
+                          <h1 style={{color:`white`}}> Hi! I'm Michael Zhou.</h1>
                         </div>
                       </div>
                     </div>
@@ -22,7 +23,7 @@ export default class Introduction extends Component {
                 </div>
               </li>
 
-              <li style={{backgroundImage: 'url(images/deca-state-champion-2020.jpg)', backgroundSize:'80% auto'}}>
+              <li style={{backgroundImage: 'url(images/deca-state-champion-2020.jpg)', backgroundSize:'contain'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
