@@ -17,7 +17,7 @@ export default class Arts extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/hugs.jpeg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Hugs: Graphite</a></h3>
+											<h3><a href="work.html">Embrace: Graphite</a></h3>
 											<span>This drawing illustrates friendship across ethnicities and cultures. I chose to draw in graphite to give a 
 											more dreamy and nostalgic feeling of a childhood best friend. The greyscale drawing emphasizes that we are not divided by color, 
 											but rather united and empowered by our different shades.</span>
