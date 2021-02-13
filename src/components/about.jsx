@@ -71,17 +71,22 @@ export default class About extends Component {
                 </div>
             </div>
             {
-            /*<div className="col-md-4 text-center animate-box">
+            <div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
+                    <h3>Leadership</h3>
+                    <p>I am the president of Ann Arbor Math Olympiad Co-Op, a volunteer-run math education nonprofit
+                        with over 300 members in all. I manage a team of 25+ high school volunteer student teachers.
+                        In school, I am one of 2 drum majors for our 100-member matching band, as well as being Vice President of DECA, the schools biggest club (>120 members).
+                        I am also president of Student Government and founder of Math Club and Economics Club.
+                    </p>
                 </div>
                 </div>
             </div>
+            /*
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                 <span className="icon">
