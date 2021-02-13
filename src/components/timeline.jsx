@@ -15,6 +15,19 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                  
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>USA Computing Olympiad<span>January 2021</span></h2>
+                        <p>Competed in the <a target="_blank" rel="noopener noreferrer" href="http://www.usaco.org/">USA Computing Olympiad</a>
+                        for the first time. I advanced to the Silver Division after achieving a perfect score on the Bronze contest, using my self-taught Python skills.</p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
@@ -22,7 +35,9 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Management and Technology Summer Institute at the University of Pennsylvania<span>July 2020</span></h2>
-                        <p>Attended the  <a target="_blank" rel="noopener noreferrer" href="https://fisher.wharton.upenn.edu/management-technology-summer-institute/">M&amp;TSI</a> hosted by the Jerome Fisher Program in Management and Technology. I studied business and innovation through lectures as well as group projects. For our team final project, I proposed a gamified plant pot idea, and led our team in prototyping and presenting our plant product, named Endew.</p>
+                        <p>Attended the  <a target="_blank" rel="noopener noreferrer" href="https://fisher.wharton.upenn.edu/management-technology-summer-institute/">M&amp;TSI</a>
+                         hosted by the Jerome Fisher Program in Management and Technology. I studied business and innovation through lectures as well as group projects. For our team 
+                         final project, I proposed a gamified plant pot idea, and led our team in prototyping and presenting our plant product, named Endew.</p>
                       </div>
                     </div>
                   </article>
@@ -33,8 +48,8 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2><a target="_blank" rel="noopener noreferrer" href="https://www.acs.org/content/acs/en/education/students/highschool/olympiad.html">US National Chemistry Olympiad</a><span>May 2020</span></h2>
-                        <p><a target="_blank" rel="noopener noreferrer" href="https://www.acs.org/content/dam/acsorg/education/students/highschool/olympiad/process/competitions/2020_usnco_high_honors_and_honors_list.pdf">2020 USNCO Honors list, 
-                        awarded to the top 150 participants in the 2020 National Chemistry Olympiad. </a> </p>
+                        <p><a target="_blank" rel="noopener noreferrer" href="https://www.acs.org/content/dam/acsorg/education/students/highschool/olympiad/process/competitions/2020_usnco_high_honors_and_honors_list.pdf">
+                          2020 USNCO Honors list, awarded to the top 150 participants in the 2020 National Chemistry Olympiad. </a> </p>
                       </div>
                     </div>
                   </article>

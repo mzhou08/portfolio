@@ -55,8 +55,19 @@ export default class About extends Component {
                 </div>
                 </div>
             </div>
-            {/*
             <div className="col-md-4 text-center animate-box">
+                <div className="services color-4">
+                <span className="icon">
+                    <i className="icon-layers2" />
+                </span>
+                <div className="desc">
+                    <h3>Art</h3>
+                    <p>I have been drawing since elementary school. My preferred medium is graphite pencil, but I also enjoy graphic design, too.</p>
+                </div>
+                </div>
+            </div>
+            {
+            /*<div className="col-md-4 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
                     <i className="icon-data" />
@@ -64,17 +75,6 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Dev Ops</h3>
                     <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
                 </div>
                 </div>
             </div>
