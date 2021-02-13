@@ -42,7 +42,7 @@ export default class About extends Component {
                     <p>Math is one of my longtime interests, especially the problem-solving aspect. 
                         I am a four-time American Invitational Math Exam (AIME) Qualifier and finished #27 in the 
                         2019 Michigan Mathematics Prize Contest. Competing isn't everything though, as I also love 
-                        teaching and creating new learning opportunities for my peers.</p>
+                        teaching and creating new learning opportunities.</p>
                 </div>
                 </div>
             </div>
@@ -53,8 +53,9 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Programming</h3>
-                    <p>I taught myself Python, NodeJS, and Git. I am currently in the USA Computing Olympiad Siler Division.
-                        I have also created projects with Amazon Web Services. Here is my 
+                    <p>I taught myself Python, NodeJS, Git. I have also made projects with Amazon Web Services and Docker.
+                         Recently, I took up an interest in competitive programming and I am currently in the 
+                         USA Computing Olympiad Siler Division. Here is my 
                         <a target = "new"  href="https://github.com/mzhou08"> Github account:</a></p>
                 </div>
                 </div>
